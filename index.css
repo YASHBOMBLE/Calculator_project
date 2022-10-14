@@ -1,4 +1,4 @@
-<style>
+
          @font-face {
         font-family: 'Digital';
         src: url('DS-DIGIT.TTF') format('truetype');
@@ -65,11 +65,6 @@
         .l-btn{
             margin-left: 400px;
             
-        }
-        .sp{
-            font-family: 'Courier New', Courier, monospace;
-            font-weight: bold;
-            font-size: 20px;
         }
         
        
